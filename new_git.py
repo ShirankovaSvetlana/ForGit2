@@ -1,5 +1,6 @@
 def my_superfunction():
     print('Hello, python!!!')
+    print('Yandex')
 
 
 def main():
